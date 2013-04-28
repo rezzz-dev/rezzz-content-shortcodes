@@ -1,0 +1,49 @@
+.one-half {
+    float: left;
+    padding: 0 10px 10px 0;
+    width: 50%;
+    -moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+.one-fourth {
+    float: left;
+    padding: 0 10px 10px 0;
+    width: 25%;
+    -moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+.three-fourth {
+    float: left;
+    padding: 0 10px 10px 0;
+    width: 75%;
+    -moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+.one-third {
+    float: left;
+    padding: 0 10px 10px 0;
+    width: 33%;
+    -moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+.two-third {
+    float: left;
+    padding: 0 10px 10px 0;
+    width: 66%;
+    -moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
