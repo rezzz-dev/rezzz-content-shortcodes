@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Content Shortcodes
+Plugin Name: rezzz Content Shortcodes
 Plugin URI: http://rezzz.com
 Description: This plugin was written by Jason Resnick to enhance the ability to format content with use of plugins
 Author: Jason Resnick
